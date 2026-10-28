@@ -1,4 +1,4 @@
-![Banner](WordCloud.jpg)
+![Banner](WordCloud.png)
 
 # Customer Behaviour & Sentiment Analysis: Turtle Games
 
