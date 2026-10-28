@@ -1,3 +1,5 @@
+![Banner](WordCloud.jpg)
+
 # Customer Behaviour & Sentiment Analysis: Turtle Games
 
 ![Distinction](https://img.shields.io/badge/Awarded%20Distinction-9A6B00?style=for-the-badge)
